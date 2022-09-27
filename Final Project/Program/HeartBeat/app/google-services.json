@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090824229545",
+    "project_id": "ppg-ta",
+    "storage_bucket": "ppg-ta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090824229545:android:3a1944f7392ecf3cf1cfb8",
+        "android_client_info": {
+          "package_name": "eu.berdosi.app.heartbeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090824229545-8oo17teufq4lf2g3vjvu34jj3m7c41od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_Wn0CPQCRi8qR3T4TdbqYCQMMPw9D-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090824229545-8oo17teufq4lf2g3vjvu34jj3m7c41od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
