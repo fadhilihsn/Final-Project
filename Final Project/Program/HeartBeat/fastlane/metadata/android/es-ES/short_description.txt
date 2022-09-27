@@ -1,1 +1,0 @@
-Calcula el ritmo cardíaco desde la cámra
